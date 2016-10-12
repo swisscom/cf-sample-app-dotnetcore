@@ -27,7 +27,7 @@ namespace CfSampleAppDotNet.Controllers
                 return BadRequest();
             }
             Kittens.Create(kitten);
-            return CreatedAtRoute("GetKitten", new { id = kitten.Id }, kitten);
+            return StatusCode(201);
         }
     }
 }
