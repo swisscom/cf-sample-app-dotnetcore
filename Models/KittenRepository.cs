@@ -3,7 +3,7 @@ using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
 
-namespace CfSampleAppDotNet.Models
+namespace CfSampleAppDotNetCore.Models
 {
     public class KittenRepository : IKittenRepository
     {

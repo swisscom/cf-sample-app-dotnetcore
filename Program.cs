@@ -1,7 +1,7 @@
 ﻿using Microsoft.Extensions.Configuration;
 using Microsoft.AspNetCore.Hosting;
 
-namespace CfSampleAppDotNetCore
+namespace CfSampleAppDotNetCoreCore
 {
     public class Program
     {

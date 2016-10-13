@@ -1,6 +1,6 @@
 ---
 applications:
-- name: my-dotnet-app
+- name: my-dotnetcore-app
   memory: 64M
   instances: 1
   buildpack: https://github.com/cloudfoundry-community/dotnet-core-buildpack.git

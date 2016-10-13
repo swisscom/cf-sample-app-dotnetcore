@@ -1,4 +1,4 @@
-namespace CfSampleAppDotNet.Models
+namespace CfSampleAppDotNetCore.Models
 {
     public class VcapServices
     {

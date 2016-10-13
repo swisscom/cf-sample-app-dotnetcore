@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace CfSampleAppDotNet.Models
+namespace CfSampleAppDotNetCore.Models
 {
     public interface IKittenRepository
     {

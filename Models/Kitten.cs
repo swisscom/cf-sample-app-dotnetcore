@@ -1,7 +1,7 @@
 using MongoDB.Bson;
 using MongoDB.Bson.Serialization.Attributes;
 
-namespace CfSampleAppDotNet.Models
+namespace CfSampleAppDotNetCore.Models
 {
     public class Kitten
     {

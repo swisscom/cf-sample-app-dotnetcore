@@ -1,8 +1,8 @@
 using System.Collections.Generic;
 using Microsoft.AspNetCore.Mvc;
-using CfSampleAppDotNet.Models;
+using CfSampleAppDotNetCore.Models;
 
-namespace CfSampleAppDotNet.Controllers
+namespace CfSampleAppDotNetCore.Controllers
 {
     [Route("[controller]")]
     public class KittenController : Controller

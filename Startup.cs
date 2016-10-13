@@ -1,8 +1,8 @@
 using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.DependencyInjection;
-using CfSampleAppDotNet.Models;
+using CfSampleAppDotNetCore.Models;
 
-namespace CfSampleAppDotNetCore
+namespace CfSampleAppDotNetCoreCore
 {
     public class Startup
     {
