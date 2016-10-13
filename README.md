@@ -1,6 +1,6 @@
-# CF Sample App .NET
+# CF Sample App .NET Core
 
-A sample [ASP.NET](https://www.asp.net/) application to deploy to Cloud Foundry which works out of the box.
+A sample [ASP.NET Core](https://www.asp.net/core) application to deploy to Cloud Foundry which works out of the box.
 
 ## Run locally
 

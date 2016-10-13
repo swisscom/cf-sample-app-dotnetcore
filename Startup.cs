@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Http;
 
-namespace CfSampleAppDotNet
+namespace CfSampleAppDotNetCore
 {
     public class Startup
     {
