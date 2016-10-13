@@ -12,5 +12,6 @@ A sample [ASP.NET](https://www.asp.net/) application to deploy to Cloud Foundry 
 ## Run in the cloud
 
 1. Install the [cf CLI](https://github.com/cloudfoundry/cli#downloads)
-1. Run `cf push my-dotnet-app`
+1. Run `cf push`
 1. Visit the given URL
+
